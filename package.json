@@ -15,12 +15,16 @@
     "build": "tsdx build && yarn build-tailwind",
     "test": "tsdx test --passWithNoTests",
     "lint": "tsdx lint",
-    "prepare": "tsdx build",
+    "prepare": "yarn build",
     "size": "size-limit",
     "analyze": "size-limit --why",
     "storybook": "start-storybook -p 6006",
     "build-tailwind": "NODE_ENV=production npx tailwindcss -o ./dist/tailwind.css --minify",
     "build-storybook": "build-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sejmou/custom-react-component-library-tailwind-example.git"
   },
   "peerDependencies": {
     "react": ">=16"
@@ -36,7 +40,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "example-component-lib",
+  "name": "@sejmou/example-react-component-lib-tailwind",
   "author": "Sejmou",
   "module": "dist/example-component-lib.esm.js",
   "size-limit": [
