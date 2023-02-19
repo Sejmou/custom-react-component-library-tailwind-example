@@ -13,7 +13,7 @@ export interface Props extends HTMLAttributes<HTMLDivElement> {
 export const Thing: FC<Props> = ({ children }) => {
   return (
     <div className="bg-yellow-100">
-      {children || `the snozzberries taste like snozzberries`}
+      {children || `the snozzberries taste like snozzberries do`}
     </div>
   );
 };
