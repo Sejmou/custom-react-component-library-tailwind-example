@@ -8,7 +8,7 @@
     "build": "parcel build index.html"
   },
   "dependencies": {
-    "example-component-lib": "^0.1.0",
+    "@sejmou/example-react-component-lib-tailwind": "^0.1.0",
     "react-app-polyfill": "^1.0.0"
   },
   "alias": {

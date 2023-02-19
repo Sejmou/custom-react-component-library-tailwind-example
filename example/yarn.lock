@@ -836,6 +836,11 @@
     "@parcel/utils" "^1.11.0"
     physical-cpu-count "^2.0.0"
 
+"@sejmou/example-react-component-lib-tailwind@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@sejmou/example-react-component-lib-tailwind/-/example-react-component-lib-tailwind-0.1.0.tgz#adc325ab7ae3358a34350c31b334780dcd84ac3e"
+  integrity sha512-74l8dIkiWMqVM4Eh9kOw2+1rUf3R+lPWH3njR04EH6PssIqMC7WRWl0EdR09+GlB8BAKjuBTTAKmLrIZl1nw8w==
+
 "@types/prop-types@*":
   version "15.7.5"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.5.tgz#5f19d2b85a98e9558036f6a3cacc8819420f05cf"

@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sejmou/custom-react-component-library-tailwind-example.git"
+    "url": "https://github.com/Sejmou/example-react-component-lib-tailwind.git"
   },
   "peerDependencies": {
     "react": ">=16"
