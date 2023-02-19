@@ -1,4 +1,12 @@
-# TSDX React w/ Storybook User Guide
+# Example React component library using Tailwind CSS
+This is a very quick and dirty example demonstrating how to create an NPM package for a React component library using Tailwind CSS. It was adapted from [this](https://zach.codes/build-your-own-flexible-component-library-using-tsdx-typescript-tailwind-css-headless-ui/) tutorial (I left out the Headless UI part as I didn't need it for my purposes, some stuff is also different because Tailwind version 3 was released after this tutorial was published).
+
+[TSDX](https://github.com/jaredpalmer/tsdx) allowed me to quickly get a basic code template for this package up and running.
+As I used the Storyboard template, Storyboard is also configured with this project and can be run via `yarn storybook`.
+
+# Docs from original TSDX readme
+
+React w/ Storybook User Guide
 
 Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
 
